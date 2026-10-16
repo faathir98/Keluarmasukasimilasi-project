@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="id" class="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistem Portir Lapas Kembangkuning - Keluar Masuk WBP Asimilasi</title>
+    <title>Portir Lapas Kembangkuning</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
